@@ -1,0 +1,14 @@
+C:\Users\harhi\source\repos\allProjects\AppSnake\bin\Debug\net8.0-windows\AppSnake.exe
+C:\Users\harhi\source\repos\allProjects\AppSnake\bin\Debug\net8.0-windows\AppSnake.deps.json
+C:\Users\harhi\source\repos\allProjects\AppSnake\bin\Debug\net8.0-windows\AppSnake.runtimeconfig.json
+C:\Users\harhi\source\repos\allProjects\AppSnake\bin\Debug\net8.0-windows\AppSnake.dll
+C:\Users\harhi\source\repos\allProjects\AppSnake\bin\Debug\net8.0-windows\AppSnake.pdb
+C:\Users\harhi\source\repos\allProjects\AppSnake\obj\Debug\net8.0-windows\AppSnake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harhi\source\repos\allProjects\AppSnake\obj\Debug\net8.0-windows\AppSnake.AssemblyInfoInputs.cache
+C:\Users\harhi\source\repos\allProjects\AppSnake\obj\Debug\net8.0-windows\AppSnake.AssemblyInfo.cs
+C:\Users\harhi\source\repos\allProjects\AppSnake\obj\Debug\net8.0-windows\AppSnake.csproj.CoreCompileInputs.cache
+C:\Users\harhi\source\repos\allProjects\AppSnake\obj\Debug\net8.0-windows\AppSnake.dll
+C:\Users\harhi\source\repos\allProjects\AppSnake\obj\Debug\net8.0-windows\refint\AppSnake.dll
+C:\Users\harhi\source\repos\allProjects\AppSnake\obj\Debug\net8.0-windows\AppSnake.pdb
+C:\Users\harhi\source\repos\allProjects\AppSnake\obj\Debug\net8.0-windows\AppSnake.genruntimeconfig.cache
+C:\Users\harhi\source\repos\allProjects\AppSnake\obj\Debug\net8.0-windows\ref\AppSnake.dll
